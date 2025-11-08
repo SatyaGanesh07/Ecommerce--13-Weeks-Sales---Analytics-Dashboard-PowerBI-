@@ -1,7 +1,9 @@
 # 📊 Ecommerce 13-Week Sales Analytics Dashboard
 
 **Advanced Power BI Solution with Dynamic DAX and Interactive Visualizations**
-
+🔗 Live Dashboard
+Explore the interactive dashboard here:
+👉 [  View   ](https://app.powerbi.com/view?r=eyJrIjoiNDMzMDk5NjMtM2Y1ZC00MTU1LTkzNTQtMjEzNWJkYTM5ZjJmIiwidCI6ImRjODhkNWNiLWMxMjEtNDUzYi1hMGRiLTFmMzlmYjEyMjJiMyJ9)
 ***
 
 ## About This Project
@@ -57,10 +59,6 @@ Relation established between transaction dates and calendar dates to enable cont
 - **Customer Satisfaction:** Bar chart on customer happiness segmented by gender.
 - **Delivery Duration:** Column chart detailing distribution of delivery times.
 - **Monthly Orders & Ratings:** Comparative chart of orders and rating trends across months.
-
-🔗 Live Dashboard
-Explore the interactive dashboard here:
-👉 [  View   ](https://app.powerbi.com/view?r=eyJrIjoiNDMzMDk5NjMtM2Y1ZC00MTU1LTkzNTQtMjEzNWJkYTM5ZjJmIiwidCI6ImRjODhkNWNiLWMxMjEtNDUzYi1hMGRiLTFmMzlmYjEyMjJiMyJ9)
 
 ***
 ## Data & Tools
