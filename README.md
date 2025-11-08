@@ -58,6 +58,10 @@ Relation established between transaction dates and calendar dates to enable cont
 - **Delivery Duration:** Column chart detailing distribution of delivery times.
 - **Monthly Orders & Ratings:** Comparative chart of orders and rating trends across months.
 
+🔗 Live Dashboard
+Explore the interactive dashboard here:
+👉 [View](https://app.powerbi.com/view?r=eyJrIjoiNDMzMDk5NjMtM2Y1ZC00MTU1LTkzNTQtMjEzNWJkYTM5ZjJmIiwidCI6ImRjODhkNWNiLWMxMjEtNDUzYi1hMGRiLTFmMzlmYjEyMjJiMyJ9)
+
 ***
 ## Data & Tools
 - **Dataset:** Cleaned ecommerce transaction data covering 13 weeks.
