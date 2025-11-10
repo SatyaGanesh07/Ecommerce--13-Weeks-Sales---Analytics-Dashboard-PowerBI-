@@ -31,15 +31,6 @@ The ecommerce industry faces constant challenges managing sales trends, customer
 
 ***
 
-## Dataset Description
-
-- **Transactions Table:** Sales transactions with info on products, customer demographics, order modes, quantities, amounts, ratings, and delivery dates.
-- **Date Table:** Calendar table enriched with day, week, and month metadata for time intelligence.
-
-Relation established between transaction dates and calendar dates to enable context-aware analytics.
-
-***
-
 ## Methodology
 
 - Data ingested and cleaned using Power Query and Excel.
@@ -62,6 +53,16 @@ Relation established between transaction dates and calendar dates to enable cont
 - **Monthly Orders & Ratings:** Comparative chart of orders and rating trends across months.
 
 ***
+
+## Dashboard Images 
+
+![image alt](https://github.com/SatyaGanesh07/Ecommerce-13-Weeks-Sales-Analysis/blob/891d3e9d370486e1bee54358fc9bb2f400701179/Dashboards/Ecommerce%20sales%201.png)
+
+![image alt](https://github.com/SatyaGanesh07/Ecommerce-13-Weeks-Sales-Analysis/blob/891d3e9d370486e1bee54358fc9bb2f400701179/Dashboards/Ecommerce%20Sales%203.png)
+#####
+![image alt](https://github.com/SatyaGanesh07/Ecommerce-13-Weeks-Sales-Analysis/blob/891d3e9d370486e1bee54358fc9bb2f400701179/Dashboards/Ecommerce%20Sales%202.png)
+
+*** 
 ## Data & Tools
 - **Dataset:** Cleaned ecommerce transaction data covering 13 weeks.
 - **Tools:** Power BI (Desktop/Service), DAX, Power Query, Excel for support.
